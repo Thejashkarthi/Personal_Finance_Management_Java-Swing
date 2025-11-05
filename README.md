@@ -4,7 +4,7 @@
 The Personal Finance Management System is an application developed using Java Swing on Apache NetBeans IDE and MySQL for Database Management. This system enables users to monitor their financial habits, track previous transactions, and visualize monthly financial data using charts.
 
 ## Software Used
-- **IDE:** Apache NetBeans
+- **IDE:** VS Code
 - **Database:** MySQL
 - **Java UI Framework:** Java Swing
 - **Chart Library:** XChart
@@ -83,7 +83,6 @@ The Personal Finance Management System is an application developed using Java Sw
 4. Monitor your financial status through the provided charts and summaries.
 
 ## Contributors
-- [Onkar Mendhapurkar](https://github.com/onkar69483)
-- [Mihir Hebalkar](https://github.com/mihirhebalkar)
-- [Sachin Mhetre](https://github.com/SachinMhetre678)
-- [Parimal Kulkarni](https://github.com/parimal1009)
+
+- Parikshit V
+- Shree Nithesh R
